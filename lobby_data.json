@@ -1,0 +1,4194 @@
+{
+  "matches": [
+    {
+      "match_start": 1590426514,
+      "player_results": [
+        {
+          "kills": 4,
+          "survivalTime": 0,
+          "playerName": "RVG_Dr_vazelin88",
+          "teamNum": 3,
+          "damageDealt": 1802,
+          "teamName": "Radiant Village",
+          "teamPlacement": 1,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "TRIADA_doto",
+          "survivalTime": 293,
+          "teamPlacement": 8,
+          "teamName": "TRIADA Gaming",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 901,
+          "playerName": "JudexGauss",
+          "teamNum": 5,
+          "damageDealt": 201,
+          "teamName": "320$",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 11,
+          "damageDealt": 3428,
+          "playerName": "RVG_PipunGorbach",
+          "teamNum": 3,
+          "survivalTime": 0,
+          "teamName": "Radiant Village",
+          "teamPlacement": 1,
+          "assists": 2
+        },
+        {
+          "kills": 1,
+          "damageDealt": 588,
+          "playerName": "Fraer64",
+          "survivalTime": 1276,
+          "teamNum": 16,
+          "teamName": "ZX Team",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 456,
+          "playerName": "LegionSeid",
+          "teamNum": 21,
+          "damageDealt": 107,
+          "teamName": "DynamitSquad",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 720,
+          "playerName": "drksttq",
+          "teamNum": 13,
+          "damageDealt": 457,
+          "teamName": "bald mald",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 161,
+          "playerName": "MindLines",
+          "teamNum": 5,
+          "survivalTime": 901,
+          "teamName": "320$",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1155,
+          "playerName": "ChiliBimba",
+          "teamPlacement": 7,
+          "damageDealt": 859,
+          "teamName": "Rysaya Leyv",
+          "teamNum": 9,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 286,
+          "playerName": "Ki11a_babe",
+          "teamPlacement": 11,
+          "survivalTime": 818,
+          "teamName": "Team 03",
+          "teamNum": 4,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 457,
+          "playerName": "TTV_appa_gaming",
+          "damageDealt": 70,
+          "teamNum": 21,
+          "teamName": "DynamitSquad",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 456,
+          "playerName": "DUPSTER58",
+          "teamNum": 21,
+          "damageDealt": 0,
+          "teamName": "DynamitSquad",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 277,
+          "playerName": "makaseca",
+          "teamPlacement": 17,
+          "damageDealt": 48,
+          "teamName": "LoveApelsin",
+          "teamNum": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1305,
+          "playerName": "zx_Emptiness",
+          "damageDealt": 437,
+          "teamNum": 16,
+          "teamName": "ZX Team",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 467,
+          "playerName": "Twitch-LadyD",
+          "teamPlacement": 11,
+          "survivalTime": 819,
+          "teamName": "Team 03",
+          "teamNum": 4,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1081,
+          "playerName": "SivaKlim",
+          "damageDealt": 584,
+          "teamPlacement": 6,
+          "teamName": "Vorobyshki",
+          "teamNum": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 244,
+          "playerName": "Trust_Cane",
+          "teamPlacement": 14,
+          "survivalTime": 585,
+          "teamName": "MozzambiQ_gaming",
+          "teamNum": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 750,
+          "playerName": "NCAB_SpaceJam",
+          "damageDealt": 246,
+          "teamNum": 7,
+          "teamName": "NCAB team",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 720,
+          "playerName": "NCAB_Abin",
+          "damageDealt": 135,
+          "teamPlacement": 12,
+          "teamName": "NCAB team",
+          "teamNum": 7,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 596,
+          "playerName": "ctrl_vladwingman",
+          "survivalTime": 1195,
+          "teamNum": 14,
+          "teamName": "Team 13",
+          "teamPlacement": 5,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 617,
+          "playerName": "Lazzy_punkk",
+          "damageDealt": 191,
+          "teamNum": 10,
+          "teamName": "MozzambiQ_gaming",
+          "teamPlacement": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1075,
+          "playerName": "C4PT41NLING",
+          "teamPlacement": 6,
+          "damageDealt": 1547,
+          "teamName": "Vorobyshki",
+          "teamNum": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 750,
+          "playerName": "NCAB_gusssssstav",
+          "teamNum": 7,
+          "damageDealt": 193,
+          "teamName": "NCAB team",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "survivalTime": 1202,
+          "playerName": "MironDaa",
+          "damageDealt": 651,
+          "teamPlacement": 5,
+          "teamName": "Team 13",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 69,
+          "playerName": "Star-Legion_Naga",
+          "teamNum": 11,
+          "survivalTime": 424,
+          "teamName": "STAR-LEGION.RU",
+          "teamPlacement": 2,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1202,
+          "playerName": "ctrl_moJIo4ko",
+          "damageDealt": 856,
+          "teamNum": 14,
+          "teamName": "Team 13",
+          "teamPlacement": 5,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 611,
+          "playerName": "vintovski",
+          "teamPlacement": 13,
+          "damageDealt": 88,
+          "teamName": "bald mald",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "survivalTime": 918,
+          "playerName": "TRIADA_uQehT",
+          "damageDealt": 742,
+          "teamPlacement": 8,
+          "teamName": "TRIADA Gaming",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 387,
+          "playerName": "Svezhiy_Xleb",
+          "survivalTime": 277,
+          "teamNum": 6,
+          "teamName": "LoveApelsin",
+          "teamPlacement": 17,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 105,
+          "playerName": "RG_deI3il",
+          "teamNum": 20,
+          "survivalTime": 123,
+          "teamName": "RuinGame",
+          "teamPlacement": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "Star-Legion_Echo",
+          "survivalTime": 1381,
+          "teamPlacement": 2,
+          "teamName": "STAR-LEGION.RU",
+          "teamNum": 11,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 901,
+          "playerName": "TTV_ShawtyNNM",
+          "damageDealt": 548,
+          "teamPlacement": 9,
+          "teamName": "320$",
+          "teamNum": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 254,
+          "playerName": "RG_LaPetrina",
+          "teamNum": 20,
+          "survivalTime": 122,
+          "teamName": "RuinGame",
+          "teamPlacement": 18,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 944,
+          "playerName": "TRIADA_WeakQ",
+          "damageDealt": 739,
+          "teamNum": 15,
+          "teamName": "TRIADA Gaming",
+          "teamPlacement": 8,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "damageDealt": 493,
+          "playerName": "JeIeshka",
+          "survivalTime": 661,
+          "teamPlacement": 15,
+          "teamName": "20fps",
+          "teamNum": 12,
+          "assists": 0
+        },
+        {
+          "kills": 7,
+          "damageDealt": 1925,
+          "playerName": "WafflexXx",
+          "teamPlacement": 3,
+          "survivalTime": 1364,
+          "teamName": "[Rama_Team]",
+          "teamNum": 2,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "RG_KirillZNNZ",
+          "teamPlacement": 18,
+          "survivalTime": 105,
+          "teamName": "RuinGame",
+          "teamNum": 20,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 624,
+          "playerName": "YECHEZ",
+          "teamPlacement": 13,
+          "damageDealt": 281,
+          "teamName": "bald mald",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 849,
+          "playerName": "BOLK_TV_YT",
+          "teamPlacement": 10,
+          "damageDealt": 324,
+          "teamName": "Ultro tim",
+          "teamNum": 8,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 619,
+          "playerName": "SillyTeal128",
+          "damageDealt": 160,
+          "teamNum": 8,
+          "teamName": "Ultro tim",
+          "teamPlacement": 10,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 819,
+          "playerName": "Soloishard",
+          "teamPlacement": 11,
+          "damageDealt": 342,
+          "teamName": "Team 03",
+          "teamNum": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1171,
+          "playerName": "Divine_Phoehix",
+          "teamPlacement": 6,
+          "damageDealt": 502,
+          "teamName": "Vorobyshki",
+          "teamNum": 18,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "damageDealt": 274,
+          "playerName": "ByLLo4ka",
+          "teamPlacement": 15,
+          "survivalTime": 658,
+          "teamName": "20fps",
+          "teamNum": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 97,
+          "playerName": "KuTeNiRaM",
+          "teamNum": 9,
+          "survivalTime": 1155,
+          "teamName": "Rysaya Leyv",
+          "teamPlacement": 7,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 83,
+          "playerName": "MabelGod",
+          "teamNum": 10,
+          "survivalTime": 709,
+          "teamName": "MozzambiQ_gaming",
+          "teamPlacement": 14,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 1095,
+          "playerName": "Kalika_j",
+          "survivalTime": 1363,
+          "teamPlacement": 3,
+          "teamName": "[Rama_Team]",
+          "teamNum": 2,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 754,
+          "playerName": "CraftC4",
+          "teamPlacement": 7,
+          "damageDealt": 242,
+          "teamName": "Rysaya Leyv",
+          "teamNum": 9,
+          "assists": 0
+        },
+        {
+          "kills": 5,
+          "survivalTime": 0,
+          "playerName": "RVG_S1VER_FREAK",
+          "damageDealt": 2402,
+          "teamNum": 3,
+          "teamName": "Radiant Village",
+          "teamPlacement": 1,
+          "assists": 2
+        },
+        {
+          "kills": 4,
+          "survivalTime": 1365,
+          "playerName": "RT_D-Jet",
+          "damageDealt": 1188,
+          "teamNum": 2,
+          "teamName": "[Rama_Team]",
+          "teamPlacement": 3,
+          "assists": 2
+        },
+        {
+          "kills": 1,
+          "damageDealt": 600,
+          "playerName": "Kartofan_6969",
+          "survivalTime": 648,
+          "teamNum": 12,
+          "teamName": "20fps",
+          "teamPlacement": 15,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1305,
+          "playerName": "GlassOil",
+          "damageDealt": 275,
+          "teamPlacement": 4,
+          "teamName": "ZX Team",
+          "teamNum": 16,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 67,
+          "playerName": "HW_Aluka",
+          "teamNum": 6,
+          "survivalTime": 277,
+          "teamName": "LoveApelsin",
+          "teamPlacement": 17,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 287,
+          "playerName": "Pathfinderlive",
+          "teamPlacement": 10,
+          "survivalTime": 871,
+          "teamName": "Ultro tim",
+          "teamNum": 8,
+          "assists": 0
+        }
+      ]
+    },
+    {
+      "match_start": 1590412091,
+      "player_results": [
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "1sy4e4ka1",
+          "survivalTime": 553,
+          "teamNum": 3,
+          "teamName": "Navalleha",
+          "teamPlacement": 8,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 70,
+          "playerName": "CND_Klrilll",
+          "survivalTime": 806,
+          "teamPlacement": 9,
+          "teamName": "CND",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 83,
+          "playerName": "CND_K1ARA",
+          "teamNum": 19,
+          "survivalTime": 458,
+          "teamName": "Smails",
+          "teamPlacement": 2,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 563,
+          "playerName": "Grifon_RU_11",
+          "teamPlacement": 8,
+          "damageDealt": 321,
+          "teamName": "Navalleha",
+          "teamNum": 3,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 512,
+          "playerName": "RVE_Scott",
+          "teamNum": 20,
+          "damageDealt": 433,
+          "teamName": "RVE",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "survivalTime": 1165,
+          "playerName": "eternity_am0r",
+          "damageDealt": 753,
+          "teamPlacement": 3,
+          "teamName": "Team 14",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 253,
+          "playerName": "CND_Klrilll",
+          "survivalTime": 469,
+          "teamNum": 19,
+          "teamName": "Smails",
+          "teamPlacement": 2,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 423,
+          "playerName": "TRI_JARAMLG",
+          "damageDealt": 60,
+          "teamPlacement": 10,
+          "teamName": "Triangle",
+          "teamNum": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 423,
+          "playerName": "TRI_Funtikai_BD",
+          "damageDealt": 136,
+          "teamNum": 10,
+          "teamName": "Triangle",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 664,
+          "playerName": "makaseca",
+          "teamNum": 5,
+          "survivalTime": 579,
+          "teamName": "YPS",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 573,
+          "playerName": "Youzersef007",
+          "teamPlacement": 11,
+          "survivalTime": 699,
+          "teamName": "RVE",
+          "teamNum": 20,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 422,
+          "playerName": "TRI_dimasikmlg",
+          "teamNum": 10,
+          "damageDealt": 104,
+          "teamName": "Triangle",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 671,
+          "playerName": "RVE_thedragondan",
+          "teamNum": 20,
+          "damageDealt": 314,
+          "teamName": "RVE",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 579,
+          "playerName": "Plesir_NM",
+          "teamPlacement": 7,
+          "damageDealt": 524,
+          "teamName": "YPS",
+          "teamNum": 5,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 319,
+          "playerName": "shrl_BibleThump",
+          "damageDealt": 168,
+          "teamNum": 6,
+          "teamName": "shrl",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 539,
+          "playerName": "Aluka_228",
+          "teamNum": 5,
+          "survivalTime": 560,
+          "teamName": "YPS",
+          "teamPlacement": 7,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 144,
+          "playerName": "YECHEZ",
+          "damageDealt": 125,
+          "teamNum": 13,
+          "teamName": "vzhik vzhik",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 941,
+          "playerName": "RVE_thedragondan",
+          "teamNum": 20,
+          "damageDealt": 346,
+          "teamName": "RVE",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 54,
+          "playerName": "ponchikvtrusah",
+          "teamNum": 16,
+          "damageDealt": 36,
+          "teamName": "Team69",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 84,
+          "playerName": "batman5680",
+          "survivalTime": 132,
+          "teamNum": 16,
+          "teamName": "Team69",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 8,
+          "damageDealt": 2014,
+          "playerName": "Bruh_HentaiWife",
+          "survivalTime": 0,
+          "teamPlacement": 1,
+          "teamName": "Bruh",
+          "teamNum": 18,
+          "assists": 6
+        },
+        {
+          "kills": 1,
+          "survivalTime": 0,
+          "playerName": "Melkiy_Game_PC",
+          "damageDealt": 1414,
+          "teamPlacement": 1,
+          "teamName": "Team 17",
+          "teamNum": 18,
+          "assists": 4
+        },
+        {
+          "kills": 9,
+          "survivalTime": 0,
+          "playerName": "Bruh_TowBoat",
+          "damageDealt": 1535,
+          "teamPlacement": 1,
+          "teamName": "Bruh",
+          "teamNum": 18,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 806,
+          "playerName": "CND_K1ARA",
+          "teamPlacement": 9,
+          "damageDealt": 206,
+          "teamName": "CND",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 8,
+          "survivalTime": 0,
+          "playerName": "Bruh_TowBoat",
+          "teamNum": 18,
+          "damageDealt": 1901,
+          "teamName": "Team 17",
+          "teamPlacement": 1,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "survivalTime": 806,
+          "playerName": "CND_SmailsZX",
+          "damageDealt": 142,
+          "teamNum": 19,
+          "teamName": "CND",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 12,
+          "damageDealt": 2334,
+          "playerName": "Bruh_HentaiWife",
+          "teamPlacement": 1,
+          "survivalTime": 0,
+          "teamName": "Team 17",
+          "teamNum": 18,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "damageDealt": 68,
+          "playerName": "GLK_Hades",
+          "teamNum": 2,
+          "survivalTime": 539,
+          "teamName": "GLK squad",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 941,
+          "playerName": "RVE_Scott",
+          "teamNum": 20,
+          "damageDealt": 15,
+          "teamName": "RVE",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 941,
+          "playerName": "Youzersef007",
+          "damageDealt": 211,
+          "teamNum": 20,
+          "teamName": "RVE",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1156,
+          "playerName": "GLK_Starr_Tem",
+          "damageDealt": 138,
+          "teamNum": 2,
+          "teamName": "GLK squad",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 5,
+          "damageDealt": 1581,
+          "playerName": "osuflandre",
+          "survivalTime": 1188,
+          "teamPlacement": 3,
+          "teamName": "Team 14",
+          "teamNum": 15,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 526,
+          "playerName": "ookamijk",
+          "teamPlacement": 9,
+          "damageDealt": 98,
+          "teamName": "Team 11",
+          "teamNum": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 131,
+          "playerName": "GLK_r1vy",
+          "teamPlacement": 4,
+          "survivalTime": 1162,
+          "teamName": "GLK squad",
+          "teamNum": 2,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 32,
+          "playerName": "vintovski",
+          "teamPlacement": 12,
+          "survivalTime": 148,
+          "teamName": "vzhik vzhik",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 716,
+          "playerName": "Bananas3500",
+          "teamNum": 14,
+          "survivalTime": 596,
+          "teamName": "OTKA3_OT_CIbPKA",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 148,
+          "playerName": "QGM_JohnnyHate",
+          "teamNum": 13,
+          "damageDealt": 45,
+          "teamName": "vzhik vzhik",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 176,
+          "playerName": "LLI_MEG",
+          "survivalTime": 80,
+          "teamPlacement": 13,
+          "teamName": "Team69",
+          "teamNum": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 563,
+          "playerName": "Aerowind10",
+          "damageDealt": 124,
+          "teamNum": 3,
+          "teamName": "Navalleha",
+          "teamPlacement": 8,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 10,
+          "playerName": "shrl_Proletariat",
+          "survivalTime": 320,
+          "teamPlacement": 11,
+          "teamName": "shrl",
+          "teamNum": 6,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 997,
+          "playerName": "CND_SmailsZX",
+          "teamPlacement": 2,
+          "survivalTime": 1305,
+          "teamName": "Smails",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 302,
+          "playerName": "freeone_31",
+          "survivalTime": 479,
+          "teamNum": 12,
+          "teamName": "Team 11",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 192,
+          "playerName": "TTS_QGM_NRG_NAVI",
+          "teamNum": 14,
+          "survivalTime": 579,
+          "teamName": "OTKA3_OT_CIbPKA",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 186,
+          "playerName": "vpadlu_gaming",
+          "survivalTime": 596,
+          "teamPlacement": 6,
+          "teamName": "OTKA3_OT_CIbPKA",
+          "teamNum": 14,
+          "assists": 1
+        }
+      ]
+    },
+    {
+      "match_start": 1590410582,
+      "player_results": [
+        {
+          "kills": 0,
+          "survivalTime": 442,
+          "playerName": "Grifon_RU_11",
+          "damageDealt": 168,
+          "teamPlacement": 14,
+          "teamName": "Navalleha",
+          "teamNum": 3,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 70,
+          "playerName": "CND_Klrilll",
+          "survivalTime": 806,
+          "teamPlacement": 9,
+          "teamName": "CND",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1169,
+          "playerName": "shrl_Proletariat",
+          "teamNum": 6,
+          "damageDealt": 1328,
+          "teamName": "shrl",
+          "teamPlacement": 2,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 453,
+          "playerName": "YECHEZ",
+          "survivalTime": 949,
+          "teamNum": 13,
+          "teamName": "ROMAN TATAR",
+          "teamPlacement": 7,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 512,
+          "playerName": "RVE_Scott",
+          "damageDealt": 433,
+          "teamNum": 20,
+          "teamName": "RVE",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 4,
+          "damageDealt": 614,
+          "playerName": "vintovski",
+          "teamNum": 13,
+          "survivalTime": 949,
+          "teamName": "ROMAN TATAR",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 180,
+          "playerName": "WASA_BREZ",
+          "survivalTime": 589,
+          "teamNum": 17,
+          "teamName": "Team 16",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1169,
+          "playerName": "shrl_150lated",
+          "teamPlacement": 2,
+          "damageDealt": 1089,
+          "teamName": "shrl",
+          "teamNum": 6,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 69,
+          "playerName": "Fullxeon",
+          "survivalTime": 714,
+          "teamNum": 7,
+          "teamName": "TROBA Team",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 221,
+          "playerName": "Eshkirenok",
+          "survivalTime": 877,
+          "teamPlacement": 8,
+          "teamName": "YPS",
+          "teamNum": 5,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "damageDealt": 573,
+          "playerName": "Youzersef007",
+          "survivalTime": 699,
+          "teamNum": 20,
+          "teamName": "RVE",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 515,
+          "playerName": "Nekit_Ruskit",
+          "damageDealt": 0,
+          "teamNum": 7,
+          "teamName": "TROBA Team",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 714,
+          "playerName": "4eBuRaSheR4ever",
+          "teamNum": 7,
+          "damageDealt": 286,
+          "teamName": "TROBA Team",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 278,
+          "playerName": "Plesir_NM",
+          "survivalTime": 872,
+          "teamNum": 5,
+          "teamName": "YPS",
+          "teamPlacement": 8,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1169,
+          "playerName": "shrl_BibleThump",
+          "teamNum": 6,
+          "damageDealt": 485,
+          "teamName": "shrl",
+          "teamPlacement": 2,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "survivalTime": 884,
+          "playerName": "makaseca",
+          "damageDealt": 801,
+          "teamNum": 5,
+          "teamName": "YPS",
+          "teamPlacement": 8,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 457,
+          "playerName": "TRI_dimasikmlg",
+          "teamNum": 10,
+          "damageDealt": 317,
+          "teamName": "Triangle",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 11,
+          "damageDealt": 2158,
+          "playerName": "Melkiy_Game_PC",
+          "survivalTime": 0,
+          "teamPlacement": 1,
+          "teamName": "Bruh",
+          "teamNum": 18,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1023,
+          "playerName": "TTS_QGM_NRG_NAVI",
+          "teamPlacement": 6,
+          "damageDealt": 686,
+          "teamName": "OTKA3otSbIPKA",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 274,
+          "playerName": "TRI_JARAMLG",
+          "teamNum": 10,
+          "survivalTime": 456,
+          "teamName": "Triangle",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 8,
+          "survivalTime": 0,
+          "playerName": "Bruh_HentaiWife",
+          "damageDealt": 2014,
+          "teamPlacement": 1,
+          "teamName": "Bruh",
+          "teamNum": 18,
+          "assists": 6
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1041,
+          "playerName": "osuflandre",
+          "damageDealt": 469,
+          "teamNum": 15,
+          "teamName": "Team 14",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 9,
+          "survivalTime": 0,
+          "playerName": "Bruh_TowBoat",
+          "teamPlacement": 1,
+          "damageDealt": 1535,
+          "teamName": "Bruh",
+          "teamNum": 18,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 806,
+          "playerName": "CND_K1ARA",
+          "damageDealt": 206,
+          "teamPlacement": 9,
+          "teamName": "CND",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 719,
+          "playerName": "eternity_am0r",
+          "teamNum": 15,
+          "survivalTime": 1040,
+          "teamName": "Team 14",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 806,
+          "playerName": "CND_SmailsZX",
+          "teamPlacement": 9,
+          "damageDealt": 142,
+          "teamName": "CND",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1151,
+          "playerName": "ponchikvtrusah",
+          "damageDealt": 216,
+          "teamPlacement": 4,
+          "teamName": "Team69",
+          "teamNum": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "GLK_Hades",
+          "teamNum": 2,
+          "survivalTime": 1121,
+          "teamName": "GLK squad",
+          "teamPlacement": 3,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 590,
+          "playerName": "WASA_Flam",
+          "damageDealt": 209,
+          "teamPlacement": 12,
+          "teamName": "Team 16",
+          "teamNum": 17,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 447,
+          "playerName": "vpadlu_gaming",
+          "survivalTime": 1022,
+          "teamNum": 14,
+          "teamName": "OTKA3otSbIPKA",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 49,
+          "playerName": "freeone_31",
+          "teamNum": 12,
+          "survivalTime": 135,
+          "teamName": "zhigul",
+          "teamPlacement": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 181,
+          "playerName": "ookamijk",
+          "damageDealt": 407,
+          "teamNum": 12,
+          "teamName": "zhigul",
+          "teamPlacement": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1151,
+          "playerName": "batman5680",
+          "damageDealt": 669,
+          "teamPlacement": 4,
+          "teamName": "Team69",
+          "teamNum": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 102,
+          "playerName": "WASA_KKAINDE",
+          "teamPlacement": 12,
+          "survivalTime": 589,
+          "teamName": "Team 16",
+          "teamNum": 17,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 165,
+          "playerName": "TRI_Funtikai_BD",
+          "survivalTime": 457,
+          "teamNum": 10,
+          "teamName": "Triangle",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 327,
+          "playerName": "1sy4e4ka1",
+          "survivalTime": 442,
+          "teamPlacement": 14,
+          "teamName": "Navalleha",
+          "teamNum": 3,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1162,
+          "playerName": "GLK_Starr_Tem",
+          "teamNum": 2,
+          "damageDealt": 217,
+          "teamName": "GLK squad",
+          "teamPlacement": 3,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 208,
+          "playerName": "QGM_JohnnyHate",
+          "teamNum": 13,
+          "survivalTime": 948,
+          "teamName": "ROMAN TATAR",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 306,
+          "playerName": "Aerowind10",
+          "survivalTime": 442,
+          "teamNum": 3,
+          "teamName": "Navalleha",
+          "teamPlacement": 14,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1151,
+          "playerName": "LLI_MEG",
+          "damageDealt": 239,
+          "teamPlacement": 4,
+          "teamName": "Team69",
+          "teamNum": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 48,
+          "playerName": "GLK_r1vy",
+          "teamPlacement": 3,
+          "survivalTime": 1162,
+          "teamName": "GLK squad",
+          "teamNum": 2,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 717,
+          "playerName": "Bananas3500",
+          "teamNum": 14,
+          "survivalTime": 1023,
+          "teamName": "OTKA3otSbIPKA",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 671,
+          "playerName": "RVE_thedragondan",
+          "teamNum": 20,
+          "damageDealt": 314,
+          "teamName": "RVE",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 250,
+          "playerName": "5kramp",
+          "teamNum": 12,
+          "damageDealt": 186,
+          "teamName": "zhigul",
+          "teamPlacement": 15,
+          "assists": 0
+        }
+      ]
+    },
+    {
+      "match_start": 1590408216,
+      "player_results": [
+        {
+          "kills": 1,
+          "damageDealt": 871,
+          "playerName": "1sy4e4ka1",
+          "survivalTime": 800,
+          "teamPlacement": 11,
+          "teamName": "Navalleha",
+          "teamNum": 3,
+          "assists": 1
+        },
+        {
+          "kills": 5,
+          "damageDealt": 1420,
+          "playerName": "Bruh_TowBoat",
+          "survivalTime": 982,
+          "teamNum": 18,
+          "teamName": "Hentai",
+          "teamPlacement": 8,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 194,
+          "playerName": "Eshkirenok",
+          "survivalTime": 134,
+          "teamNum": 5,
+          "teamName": "YPS",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "survivalTime": 953,
+          "playerName": "x-hatehatehate",
+          "damageDealt": 1268,
+          "teamNum": 12,
+          "teamName": "Zhigul",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1128,
+          "playerName": "CND_K1ARA",
+          "teamNum": 19,
+          "damageDealt": 398,
+          "teamName": "CND",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 1004,
+          "playerName": "freeone_31",
+          "teamNum": 12,
+          "survivalTime": 954,
+          "teamName": "Zhigul",
+          "teamPlacement": 9,
+          "assists": 2
+        },
+        {
+          "kills": 3,
+          "damageDealt": 657,
+          "playerName": "ponchikvtrusah",
+          "teamPlacement": 3,
+          "survivalTime": 1138,
+          "teamName": "Team69",
+          "teamNum": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 946,
+          "playerName": "shrl_Proletariat",
+          "teamNum": 6,
+          "survivalTime": 1014,
+          "teamName": "bruh- hello",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 958,
+          "playerName": "shrl_BibleThump",
+          "teamNum": 6,
+          "damageDealt": 170,
+          "teamName": "bruh- hello",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 713,
+          "playerName": "Suharik_0",
+          "teamPlacement": 10,
+          "damageDealt": 0,
+          "teamName": "CoM",
+          "teamNum": 4,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1098,
+          "playerName": "LLI_MEG",
+          "damageDealt": 476,
+          "teamNum": 16,
+          "teamName": "Team69",
+          "teamPlacement": 3,
+          "assists": 3
+        },
+        {
+          "kills": 6,
+          "damageDealt": 1647,
+          "playerName": "Youzersef007",
+          "teamNum": 20,
+          "survivalTime": 0,
+          "teamName": "RVE",
+          "teamPlacement": 1,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "damageDealt": 302,
+          "playerName": "CND_Klrilll",
+          "teamPlacement": 4,
+          "survivalTime": 1128,
+          "teamName": "CND",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 72,
+          "playerName": "makaseca",
+          "teamPlacement": 16,
+          "survivalTime": 112,
+          "teamName": "YPS",
+          "teamNum": 5,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "damageDealt": 637,
+          "playerName": "RVE_Scott",
+          "survivalTime": 0,
+          "teamPlacement": 1,
+          "teamName": "RVE",
+          "teamNum": 20,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 135,
+          "playerName": "Plesir_NM",
+          "damageDealt": 24,
+          "teamNum": 5,
+          "teamName": "YPS",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 889,
+          "playerName": "JucyF2",
+          "teamPlacement": 10,
+          "damageDealt": 300,
+          "teamName": "CoM",
+          "teamNum": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 795,
+          "playerName": "Nekit_Ruskit",
+          "teamPlacement": 12,
+          "damageDealt": 150,
+          "teamName": "TROBA Team",
+          "teamNum": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 126,
+          "playerName": "WASA_KKAINDE",
+          "survivalTime": 1036,
+          "teamPlacement": 6,
+          "teamName": "WASA TEAM",
+          "teamNum": 17,
+          "assists": 1
+        },
+        {
+          "kills": 2,
+          "damageDealt": 876,
+          "playerName": "QGM_JohnnyHate",
+          "teamNum": 13,
+          "survivalTime": 1160,
+          "teamName": "che_s_dengami",
+          "teamPlacement": 2,
+          "assists": 2
+        },
+        {
+          "kills": 3,
+          "damageDealt": 1001,
+          "playerName": "RVE_thedragondan",
+          "survivalTime": 0,
+          "teamNum": 20,
+          "teamName": "RVE",
+          "teamPlacement": 1,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "survivalTime": 680,
+          "playerName": "TTS_QGM_NRG_NAVI",
+          "teamPlacement": 13,
+          "damageDealt": 108,
+          "teamName": "OTKA3otSbIPKA",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "WASA_BREZ",
+          "survivalTime": 905,
+          "teamPlacement": 6,
+          "teamName": "WASA TEAM",
+          "teamNum": 17,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 680,
+          "playerName": "Bananas3500",
+          "teamPlacement": 13,
+          "damageDealt": 161,
+          "teamName": "OTKA3otSbIPKA",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 318,
+          "playerName": "WASA_Flam",
+          "teamPlacement": 6,
+          "survivalTime": 920,
+          "teamName": "WASA TEAM",
+          "teamNum": 17,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 883,
+          "playerName": "Melkiy_Game_PC",
+          "survivalTime": 982,
+          "teamPlacement": 8,
+          "teamName": "Hentai",
+          "teamNum": 18,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 680,
+          "playerName": "vpadlu_gaming",
+          "damageDealt": 234,
+          "teamNum": 14,
+          "teamName": "OTKA3otSbIPKA",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 6,
+          "survivalTime": 974,
+          "playerName": "Bruh_HentaiWife",
+          "teamPlacement": 8,
+          "damageDealt": 1106,
+          "teamName": "Hentai",
+          "teamNum": 18,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 133,
+          "playerName": "AmpyBro",
+          "damageDealt": 71,
+          "teamPlacement": 15,
+          "teamName": "WGA",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 156,
+          "playerName": "GLK_r1vy",
+          "teamPlacement": 5,
+          "survivalTime": 1079,
+          "teamName": "GLK squad",
+          "teamNum": 2,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 35,
+          "playerName": "GLK_Hades",
+          "survivalTime": 1078,
+          "teamNum": 2,
+          "teamName": "GLK squad",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 202,
+          "playerName": "Grifon_RU_11",
+          "survivalTime": 794,
+          "teamNum": 3,
+          "teamName": "Navalleha",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 92,
+          "playerName": "UnicornVoban",
+          "teamPlacement": 15,
+          "damageDealt": 33,
+          "teamName": "WGA",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 63,
+          "playerName": "TRI_JARAMLG",
+          "survivalTime": 540,
+          "teamPlacement": 14,
+          "teamName": "Triangle",
+          "teamNum": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1111,
+          "playerName": "CND_SmailsZX",
+          "teamPlacement": 4,
+          "damageDealt": 263,
+          "teamName": "CND",
+          "teamNum": 19,
+          "assists": 1
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1138,
+          "playerName": "batman5680",
+          "teamPlacement": 3,
+          "damageDealt": 996,
+          "teamName": "Team69",
+          "teamNum": 16,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1037,
+          "playerName": "vintovski",
+          "teamPlacement": 2,
+          "damageDealt": 896,
+          "teamName": "che_s_dengami",
+          "teamNum": 13,
+          "assists": 5
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1078,
+          "playerName": "GLK_Starr_Tem",
+          "teamPlacement": 5,
+          "damageDealt": 161,
+          "teamName": "GLK squad",
+          "teamNum": 2,
+          "assists": 0
+        },
+        {
+          "kills": 6,
+          "survivalTime": 1078,
+          "playerName": "YECHEZ",
+          "damageDealt": 1327,
+          "teamNum": 13,
+          "teamName": "che_s_dengami",
+          "teamPlacement": 2,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "damageDealt": 237,
+          "playerName": "shrl_150lated",
+          "teamPlacement": 7,
+          "survivalTime": 971,
+          "teamName": "bruh- hello",
+          "teamNum": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 540,
+          "playerName": "TRI_Funtikai_BD",
+          "damageDealt": 40,
+          "teamPlacement": 14,
+          "teamName": "Triangle",
+          "teamNum": 10,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 870,
+          "playerName": "Aerowind10",
+          "teamNum": 3,
+          "survivalTime": 834,
+          "teamName": "Navalleha",
+          "teamPlacement": 11,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 536,
+          "playerName": "TRI_dimasikmlg",
+          "damageDealt": 74,
+          "teamPlacement": 14,
+          "teamName": "Triangle",
+          "teamNum": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 147,
+          "playerName": "0_HeavenKid_0",
+          "damageDealt": 74,
+          "teamPlacement": 15,
+          "teamName": "WGA",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 792,
+          "playerName": "Fullxeon",
+          "teamNum": 7,
+          "damageDealt": 118,
+          "teamName": "TROBA Team",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 652,
+          "playerName": "4eBuRaSheRSlaVe",
+          "damageDealt": 0,
+          "teamNum": 7,
+          "teamName": "TROBA Team",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 954,
+          "playerName": "ookamijk",
+          "teamPlacement": 9,
+          "damageDealt": 919,
+          "teamName": "Zhigul",
+          "teamNum": 12,
+          "assists": 1
+        }
+      ]
+    },
+    {
+      "match_start": 1590405619,
+      "player_results": [
+        {
+          "kills": 0,
+          "survivalTime": 754,
+          "playerName": "Grifon_RU_11",
+          "teamNum": 3,
+          "damageDealt": 257,
+          "teamName": "Navalleha",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 4,
+          "survivalTime": 488,
+          "playerName": "Bruh_TowBoat",
+          "teamPlacement": 12,
+          "damageDealt": 227,
+          "teamName": "Bruh",
+          "teamNum": 18,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 102,
+          "playerName": "AmpyBro",
+          "survivalTime": 461,
+          "teamNum": 15,
+          "teamName": "ninada diplom",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 534,
+          "playerName": "freeone_31",
+          "damageDealt": 541,
+          "teamPlacement": 5,
+          "teamName": "zhigul",
+          "teamNum": 12,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 465,
+          "playerName": "Bruh_HentaiWife",
+          "teamNum": 18,
+          "damageDealt": 449,
+          "teamName": "Bruh",
+          "teamPlacement": 12,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "survivalTime": 486,
+          "playerName": "ookamijk",
+          "damageDealt": 125,
+          "teamNum": 12,
+          "teamName": "zhigul",
+          "teamPlacement": 5,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 393,
+          "playerName": "UnicornVoban",
+          "teamPlacement": 13,
+          "survivalTime": 461,
+          "teamName": "ninada diplom",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 259,
+          "playerName": "Eshkirenok",
+          "survivalTime": 1167,
+          "teamPlacement": 4,
+          "teamName": "YPS",
+          "teamNum": 5,
+          "assists": 3
+        },
+        {
+          "kills": 2,
+          "damageDealt": 858,
+          "playerName": "x-hatehatehate",
+          "survivalTime": 1131,
+          "teamNum": 12,
+          "teamName": "zhigul",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 269,
+          "playerName": "Suharik_0",
+          "teamPlacement": 10,
+          "survivalTime": 703,
+          "teamName": "CoM",
+          "teamNum": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 208,
+          "playerName": "CND_K1ARA",
+          "teamPlacement": 9,
+          "survivalTime": 1002,
+          "teamName": "otoidy_v_tualet",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1003,
+          "playerName": "CND_Klrilll",
+          "damageDealt": 53,
+          "teamNum": 19,
+          "teamName": "otoidy_v_tualet",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 335,
+          "playerName": "CND_SmailsZX",
+          "damageDealt": 0,
+          "teamNum": 19,
+          "teamName": "otoidy_v_tualet",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 412,
+          "playerName": "ponchikvtrusah",
+          "teamNum": 16,
+          "survivalTime": 337,
+          "teamName": "Team69",
+          "teamPlacement": 14,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 596,
+          "playerName": "Youzersef007",
+          "survivalTime": 1273,
+          "teamNum": 20,
+          "teamName": "RVE",
+          "teamPlacement": 3,
+          "assists": 2
+        },
+        {
+          "kills": 1,
+          "survivalTime": 987,
+          "playerName": "StevenLongley",
+          "teamPlacement": 8,
+          "damageDealt": 351,
+          "teamName": "Diplom Vintovki",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 70,
+          "playerName": "NTI_OrrbiT",
+          "survivalTime": 257,
+          "teamPlacement": 15,
+          "teamName": "NTI_",
+          "teamNum": 8,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 215,
+          "playerName": "NTI_Tobiso",
+          "teamNum": 8,
+          "damageDealt": 95,
+          "teamName": "NTI_",
+          "teamPlacement": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 376,
+          "playerName": "batman5680",
+          "teamPlacement": 14,
+          "survivalTime": 337,
+          "teamName": "Team69",
+          "teamNum": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1068,
+          "playerName": "YECHEZ",
+          "damageDealt": 1059,
+          "teamNum": 13,
+          "teamName": "Diplom Vintovki",
+          "teamPlacement": 8,
+          "assists": 1
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1255,
+          "playerName": "RVE_Scott",
+          "teamPlacement": 3,
+          "damageDealt": 826,
+          "teamName": "RVE",
+          "teamNum": 20,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 30,
+          "playerName": "NTI_PrOxy",
+          "survivalTime": 262,
+          "teamPlacement": 15,
+          "teamName": "NTI_",
+          "teamNum": 8,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 773,
+          "playerName": "RVE_thedragondan",
+          "teamPlacement": 3,
+          "survivalTime": 1255,
+          "teamName": "RVE",
+          "teamNum": 20,
+          "assists": 1
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1281,
+          "playerName": "vpadlu_gaming",
+          "damageDealt": 1257,
+          "teamNum": 14,
+          "teamName": "OTKA3otSbIPKA",
+          "teamPlacement": 2,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1118,
+          "playerName": "WASA_KKAINDE",
+          "damageDealt": 190,
+          "teamNum": 17,
+          "teamName": "WASA TEAM",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1119,
+          "playerName": "WASA_BREZ",
+          "damageDealt": 130,
+          "teamNum": 17,
+          "teamName": "WASA TEAM",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 1274,
+          "playerName": "Bananas3500",
+          "teamNum": 14,
+          "survivalTime": 1231,
+          "teamName": "OTKA3otSbIPKA",
+          "teamPlacement": 2,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "damageDealt": 150,
+          "playerName": "0_HeavenKid_0",
+          "survivalTime": 461,
+          "teamPlacement": 13,
+          "teamName": "ninada diplom",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 258,
+          "playerName": "Melkiy_Game_PC",
+          "teamPlacement": 12,
+          "survivalTime": 488,
+          "teamName": "Bruh",
+          "teamNum": 18,
+          "assists": 0
+        },
+        {
+          "kills": 5,
+          "survivalTime": 1281,
+          "playerName": "TTS_QGM_NRG_NAVI",
+          "teamNum": 14,
+          "damageDealt": 1298,
+          "teamName": "OTKA3otSbIPKA",
+          "teamPlacement": 2,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "damageDealt": 425,
+          "playerName": "Plesir_NM",
+          "survivalTime": 1161,
+          "teamNum": 5,
+          "teamName": "YPS",
+          "teamPlacement": 4,
+          "assists": 3
+        },
+        {
+          "kills": 2,
+          "survivalTime": 0,
+          "playerName": "GLK_Hades",
+          "damageDealt": 270,
+          "teamPlacement": 1,
+          "teamName": "GLK squad",
+          "teamNum": 2,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "iWannaSeeBlood",
+          "teamNum": 4,
+          "survivalTime": 733,
+          "teamName": "CoM",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 4,
+          "survivalTime": 1198,
+          "playerName": "makaseca",
+          "teamPlacement": 4,
+          "damageDealt": 823,
+          "teamName": "YPS",
+          "teamNum": 5,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "survivalTime": 0,
+          "playerName": "GLK_Starr_Tem",
+          "teamPlacement": 1,
+          "damageDealt": 812,
+          "teamName": "GLK squad",
+          "teamNum": 2,
+          "assists": 3
+        },
+        {
+          "kills": 3,
+          "damageDealt": 568,
+          "playerName": "vintovski",
+          "survivalTime": 971,
+          "teamPlacement": 8,
+          "teamName": "Diplom Vintovki",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 200,
+          "playerName": "4eBuRaSheRSlaVe",
+          "teamNum": 7,
+          "survivalTime": 1086,
+          "teamName": "TROBA Team",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 259,
+          "playerName": "WASA_Flam",
+          "survivalTime": 1119,
+          "teamNum": 17,
+          "teamName": "WASA TEAM",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 271,
+          "playerName": "Fullxeon",
+          "teamPlacement": 7,
+          "survivalTime": 1086,
+          "teamName": "TROBA Team",
+          "teamNum": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 36,
+          "playerName": "TRI_dimasikmlg",
+          "teamPlacement": 16,
+          "survivalTime": 152,
+          "teamName": "Triangle",
+          "teamNum": 10,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 253,
+          "playerName": "1sy4e4ka1",
+          "survivalTime": 944,
+          "teamNum": 3,
+          "teamName": "Navalleha",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 190,
+          "playerName": "TRI_Funtikai_BD",
+          "teamNum": 10,
+          "survivalTime": 152,
+          "teamName": "Triangle",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 395,
+          "playerName": "Aerowind10",
+          "survivalTime": 955,
+          "teamPlacement": 11,
+          "teamName": "Navalleha",
+          "teamNum": 3,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 362,
+          "playerName": "LLI_MEG",
+          "survivalTime": 337,
+          "teamNum": 16,
+          "teamName": "Team69",
+          "teamPlacement": 14,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "damageDealt": 730,
+          "playerName": "GLK_r1vy",
+          "teamPlacement": 1,
+          "survivalTime": 0,
+          "teamName": "GLK squad",
+          "teamNum": 2,
+          "assists": 5
+        },
+        {
+          "kills": 0,
+          "damageDealt": 463,
+          "playerName": "XXXEDUSTA",
+          "teamNum": 7,
+          "survivalTime": 1086,
+          "teamName": "TROBA Team",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 990,
+          "playerName": "JucyF2",
+          "damageDealt": 281,
+          "teamPlacement": 10,
+          "teamName": "CoM",
+          "teamNum": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 152,
+          "playerName": "TRI_JARAMLG",
+          "teamNum": 10,
+          "damageDealt": 80,
+          "teamName": "Triangle",
+          "teamPlacement": 16,
+          "assists": 0
+        }
+      ]
+    },
+    {
+      "match_start": 1590342635,
+      "player_results": [
+        {
+          "kills": 0,
+          "damageDealt": 463,
+          "playerName": "Kyoto_Sena",
+          "survivalTime": 717,
+          "teamNum": 3,
+          "teamName": "Shaman Team",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1102,
+          "playerName": "juhaniGG",
+          "teamPlacement": 7,
+          "damageDealt": 390,
+          "teamName": "Keepo",
+          "teamNum": 18,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 676,
+          "playerName": "RND_W1R3NT",
+          "teamNum": 14,
+          "damageDealt": 217,
+          "teamName": "RenaiD",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 951,
+          "playerName": "ST_KaCpeR",
+          "survivalTime": 717,
+          "teamNum": 3,
+          "teamName": "Shaman Team",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 892,
+          "playerName": "LFT_PaolaZest",
+          "survivalTime": 1102,
+          "teamNum": 18,
+          "teamName": "Keepo",
+          "teamPlacement": 7,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "damageDealt": 1047,
+          "playerName": "juhaniGG",
+          "survivalTime": 1400,
+          "teamNum": 18,
+          "teamName": "Keepo",
+          "teamPlacement": 3,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "survivalTime": 651,
+          "playerName": "RND_FalseAlarm",
+          "damageDealt": 310,
+          "teamPlacement": 11,
+          "teamName": "RenaiD",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 315,
+          "playerName": "KOMPOT_kokc21",
+          "survivalTime": 195,
+          "teamPlacement": 16,
+          "teamName": "CUMPOT",
+          "teamNum": 6,
+          "assists": 1
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1157,
+          "playerName": "TFSQ_Shade",
+          "damageDealt": 487,
+          "teamNum": 11,
+          "teamName": "TFSQ",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 675,
+          "playerName": "ss_Neefreet",
+          "damageDealt": 483,
+          "teamNum": 4,
+          "teamName": "Serious Sam",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 478,
+          "playerName": "TrapDesu_Teo",
+          "survivalTime": 415,
+          "teamNum": 19,
+          "teamName": "Trap Desu",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 387,
+          "playerName": "TrapDesu_Cracer",
+          "teamPlacement": 11,
+          "survivalTime": 500,
+          "teamName": "Trap Desu",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 197,
+          "playerName": "hatehatehateYB",
+          "teamPlacement": 12,
+          "survivalTime": 623,
+          "teamName": "Eternal Pain",
+          "teamNum": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 619,
+          "playerName": "arsssq",
+          "damageDealt": 553,
+          "teamNum": 7,
+          "teamName": "Eternal Pain",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 324,
+          "playerName": "WN_Vano1k",
+          "survivalTime": 363,
+          "teamPlacement": 15,
+          "teamName": "WhyNot",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 195,
+          "playerName": "TrapDesu_Sh1n1",
+          "teamNum": 19,
+          "survivalTime": 500,
+          "teamName": "Trap Desu",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 158,
+          "playerName": "CrudeFish",
+          "survivalTime": 195,
+          "teamNum": 6,
+          "teamName": "CUMPOT",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 681,
+          "playerName": "ss_Zhidkich",
+          "teamNum": 4,
+          "damageDealt": 166,
+          "teamName": "Serious Sam",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 680,
+          "playerName": "WGN_Dedaman30",
+          "survivalTime": 0,
+          "teamNum": 9,
+          "teamName": "WGN",
+          "teamPlacement": 1,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 12,
+          "playerName": "WN_SpeKTRiZ",
+          "survivalTime": 363,
+          "teamPlacement": 15,
+          "teamName": "WhyNot",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 518,
+          "playerName": "Sarcasm_322",
+          "survivalTime": 895,
+          "teamPlacement": 8,
+          "teamName": "RusB",
+          "teamNum": 12,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 1000,
+          "playerName": "AID_majahed21",
+          "teamNum": 20,
+          "survivalTime": 1302,
+          "teamName": "AID",
+          "teamPlacement": 2,
+          "assists": 3
+        },
+        {
+          "kills": 3,
+          "damageDealt": 583,
+          "playerName": "TFSQ_Monkey",
+          "survivalTime": 1145,
+          "teamPlacement": 6,
+          "teamName": "TFSQ",
+          "teamNum": 11,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "survivalTime": 0,
+          "playerName": "WGN_Maly",
+          "damageDealt": 1300,
+          "teamNum": 9,
+          "teamName": "WGN",
+          "teamPlacement": 1,
+          "assists": 2
+        },
+        {
+          "kills": 2,
+          "survivalTime": 1194,
+          "playerName": "Miru_sladkodynyl",
+          "damageDealt": 1190,
+          "teamNum": 17,
+          "teamName": "Miru",
+          "teamPlacement": 4,
+          "assists": 1
+        },
+        {
+          "kills": 2,
+          "survivalTime": 1050,
+          "playerName": "RusB_akry",
+          "damageDealt": 1681,
+          "teamNum": 12,
+          "teamName": "RusB",
+          "teamPlacement": 8,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1251,
+          "playerName": "Prokich",
+          "teamPlacement": 3,
+          "damageDealt": 838,
+          "teamName": "NT",
+          "teamNum": 13,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "survivalTime": 882,
+          "playerName": "LFT_PaolaZest",
+          "teamPlacement": 3,
+          "damageDealt": 87,
+          "teamName": "Keepo",
+          "teamNum": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 175,
+          "playerName": "M4NER_VEVO",
+          "teamNum": 21,
+          "survivalTime": 253,
+          "teamName": "VEVO",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 4,
+          "damageDealt": 956,
+          "playerName": "Miru_Xuebushek",
+          "survivalTime": 1195,
+          "teamNum": 17,
+          "teamName": "Miru",
+          "teamPlacement": 4,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1421,
+          "playerName": "AID_TOSHIK",
+          "damageDealt": 277,
+          "teamPlacement": 4,
+          "teamName": "AID",
+          "teamNum": 20,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 106,
+          "playerName": "twitch_segura",
+          "survivalTime": 623,
+          "teamNum": 7,
+          "teamName": "Eternal Pain",
+          "teamPlacement": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 205,
+          "playerName": "TrapDesu_Teo",
+          "survivalTime": 500,
+          "teamPlacement": 11,
+          "teamName": "Trap Desu",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 4,
+          "survivalTime": 0,
+          "playerName": "twitch_kane_king",
+          "teamNum": 9,
+          "damageDealt": 2121,
+          "teamName": "WGN",
+          "teamPlacement": 1,
+          "assists": 2
+        },
+        {
+          "kills": 2,
+          "damageDealt": 950,
+          "playerName": "Miru_FourR44",
+          "survivalTime": 1138,
+          "teamPlacement": 4,
+          "teamName": "Miru",
+          "teamNum": 17,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "damageDealt": 127,
+          "playerName": "GANSTERx13_VEVO",
+          "survivalTime": 253,
+          "teamNum": 21,
+          "teamName": "VEVO",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 809,
+          "playerName": "AID_BiTaMiNkA",
+          "survivalTime": 1421,
+          "teamPlacement": 4,
+          "teamName": "AID",
+          "teamNum": 20,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 725,
+          "playerName": "vstu-een",
+          "teamPlacement": 3,
+          "damageDealt": 125,
+          "teamName": "NT",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "damageDealt": 444,
+          "playerName": "Bruh_EnerGy_VL",
+          "survivalTime": 476,
+          "teamPlacement": 14,
+          "teamName": "Bruh",
+          "teamNum": 2,
+          "assists": 0
+        },
+        {
+          "kills": 9,
+          "damageDealt": 1569,
+          "playerName": "Yann1_GB",
+          "teamNum": 18,
+          "survivalTime": 1425,
+          "teamName": "Keepo",
+          "teamPlacement": 3,
+          "assists": 2
+        },
+        {
+          "kills": 1,
+          "damageDealt": 280,
+          "playerName": "CoA-DNq-",
+          "survivalTime": 725,
+          "teamNum": 10,
+          "teamName": "CoA_",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 116,
+          "playerName": "playatfun",
+          "survivalTime": 723,
+          "teamPlacement": 3,
+          "teamName": "NT",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 4,
+          "survivalTime": 1302,
+          "playerName": "AID_BiTaMiNkA",
+          "damageDealt": 1479,
+          "teamNum": 20,
+          "teamName": "AID",
+          "teamPlacement": 2,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 479,
+          "playerName": "Bruh_TowBoat",
+          "damageDealt": 412,
+          "teamNum": 2,
+          "teamName": "Bruh",
+          "teamPlacement": 14,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "damageDealt": 358,
+          "playerName": "beskish1",
+          "survivalTime": 1167,
+          "teamPlacement": 5,
+          "teamName": "Serious Sam",
+          "teamNum": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 237,
+          "playerName": "FOleger1_VEVO",
+          "damageDealt": 76,
+          "teamNum": 21,
+          "teamName": "VEVO",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "damageDealt": 733,
+          "playerName": "CoA_Brat3ckiy",
+          "teamNum": 10,
+          "survivalTime": 725,
+          "teamName": "CoA_",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1157,
+          "playerName": "THI3F-Youtube",
+          "damageDealt": 679,
+          "teamPlacement": 6,
+          "teamName": "TFSQ",
+          "teamNum": 11,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "survivalTime": 928,
+          "playerName": "RusB_Kot9",
+          "damageDealt": 275,
+          "teamNum": 12,
+          "teamName": "RusB",
+          "teamPlacement": 8,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 82,
+          "playerName": "TrapDesu_Sh1n1",
+          "teamNum": 19,
+          "survivalTime": 420,
+          "teamName": "Trap Desu",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 4,
+          "damageDealt": 1285,
+          "playerName": "AID_TOSHIK",
+          "teamPlacement": 2,
+          "survivalTime": 1302,
+          "teamName": "AID",
+          "teamNum": 20,
+          "assists": 2
+        },
+        {
+          "kills": 1,
+          "damageDealt": 596,
+          "playerName": "TrapDesu_Cracer",
+          "survivalTime": 544,
+          "teamNum": 19,
+          "teamName": "Trap Desu",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 91,
+          "playerName": "Bruh_RTF9",
+          "survivalTime": 477,
+          "teamPlacement": 14,
+          "teamName": "Bruh",
+          "teamNum": 2,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 870,
+          "playerName": "Yann1_GB",
+          "teamPlacement": 7,
+          "survivalTime": 1102,
+          "teamName": "Keepo",
+          "teamNum": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 340,
+          "playerName": "MeetDeadMan",
+          "survivalTime": 701,
+          "teamPlacement": 10,
+          "teamName": "Shaman Team",
+          "teamNum": 3,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 363,
+          "playerName": "WN_YYEnioneYY",
+          "teamPlacement": 15,
+          "damageDealt": 246,
+          "teamName": "WhyNot",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 298,
+          "playerName": "RND-piro96ok",
+          "teamNum": 14,
+          "survivalTime": 677,
+          "teamName": "RenaiD",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 195,
+          "playerName": "szymongdz92",
+          "damageDealt": 202,
+          "teamNum": 6,
+          "teamName": "CUMPOT",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1111,
+          "playerName": "AID_majahed21",
+          "damageDealt": 686,
+          "teamNum": 20,
+          "teamName": "AID",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 725,
+          "playerName": "ToxicNazgob",
+          "teamPlacement": 9,
+          "damageDealt": 599,
+          "teamName": "CoA_",
+          "teamNum": 10,
+          "assists": 2
+        }
+      ]
+    },
+    {
+      "match_start": 1590340471,
+      "player_results": [
+        {
+          "kills": 2,
+          "survivalTime": 254,
+          "playerName": "MeetDeadMan",
+          "teamPlacement": 15,
+          "damageDealt": 209,
+          "teamName": "Shaman Team",
+          "teamNum": 3,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1286,
+          "playerName": "WN_YYEnioneYY",
+          "teamNum": 15,
+          "damageDealt": 575,
+          "teamName": "WhyNot",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "survivalTime": 516,
+          "playerName": "RusB_Kot9",
+          "teamPlacement": 9,
+          "damageDealt": 188,
+          "teamName": "RusB",
+          "teamNum": 12,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1182,
+          "playerName": "twitch_kane_king",
+          "damageDealt": 1430,
+          "teamPlacement": 6,
+          "teamName": "WGN",
+          "teamNum": 9,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1286,
+          "playerName": "WN_SpeKTRiZ",
+          "teamNum": 15,
+          "damageDealt": 744,
+          "teamName": "WhyNot",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1400,
+          "playerName": "juhaniGG",
+          "damageDealt": 1047,
+          "teamNum": 18,
+          "teamName": "Keepo",
+          "teamPlacement": 3,
+          "assists": 4
+        },
+        {
+          "kills": 1,
+          "damageDealt": 1121,
+          "playerName": "RusB_akry",
+          "survivalTime": 1060,
+          "teamPlacement": 9,
+          "teamName": "RusB",
+          "teamNum": 12,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "survivalTime": 306,
+          "playerName": "v0ld3m4r",
+          "teamPlacement": 14,
+          "damageDealt": 98,
+          "teamName": "LoVi",
+          "teamNum": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 165,
+          "playerName": "CrudeFish",
+          "survivalTime": 157,
+          "teamNum": 6,
+          "teamName": "CUMPOT",
+          "teamPlacement": 18,
+          "assists": 1
+        },
+        {
+          "kills": 4,
+          "survivalTime": 1458,
+          "playerName": "beskish1",
+          "teamNum": 4,
+          "damageDealt": 1039,
+          "teamName": "Serious Sam",
+          "teamPlacement": 2,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 500,
+          "playerName": "TrapDesu_Teo",
+          "damageDealt": 205,
+          "teamPlacement": 11,
+          "teamName": "Trap Desu",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 500,
+          "playerName": "TrapDesu_Cracer",
+          "damageDealt": 387,
+          "teamNum": 19,
+          "teamName": "Trap Desu",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 104,
+          "playerName": "szymongdz92",
+          "survivalTime": 163,
+          "teamPlacement": 18,
+          "teamName": "CUMPOT",
+          "teamNum": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 69,
+          "playerName": "TRIADA_WeakQ",
+          "damageDealt": 16,
+          "teamNum": 16,
+          "teamName": "TRIADA Gaming",
+          "teamPlacement": 20,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "survivalTime": 1458,
+          "playerName": "ss_Neefreet",
+          "damageDealt": 1350,
+          "teamNum": 4,
+          "teamName": "Serious Sam",
+          "teamPlacement": 2,
+          "assists": 4
+        },
+        {
+          "kills": 3,
+          "survivalTime": 0,
+          "playerName": "Miru_sladkodynyl",
+          "teamPlacement": 1,
+          "damageDealt": 1220,
+          "teamName": "Miru",
+          "teamNum": 17,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 735,
+          "playerName": "CoA_Brat3ckiy",
+          "damageDealt": 278,
+          "teamPlacement": 10,
+          "teamName": "CoA_",
+          "teamNum": 10,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 20,
+          "playerName": "hatehatehateYB",
+          "teamNum": 7,
+          "survivalTime": 123,
+          "teamName": "Eternal Pain",
+          "teamPlacement": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 123,
+          "playerName": "twitch_segura",
+          "teamPlacement": 19,
+          "damageDealt": 176,
+          "teamName": "Eternal Pain",
+          "teamNum": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 306,
+          "playerName": "playatfun",
+          "survivalTime": 856,
+          "teamNum": 13,
+          "teamName": "NT",
+          "teamPlacement": 8,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "damageDealt": 466,
+          "playerName": "CoA-DNq-",
+          "survivalTime": 735,
+          "teamPlacement": 10,
+          "teamName": "CoA_",
+          "teamNum": 10,
+          "assists": 2
+        },
+        {
+          "kills": 5,
+          "damageDealt": 1700,
+          "playerName": "Miru_Xuebushek",
+          "survivalTime": 0,
+          "teamNum": 17,
+          "teamName": "Miru",
+          "teamPlacement": 1,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 278,
+          "playerName": "TrischIZzi",
+          "teamNum": 5,
+          "damageDealt": 161,
+          "teamName": "LoVi",
+          "teamPlacement": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 122,
+          "playerName": "arsssq",
+          "teamNum": 7,
+          "damageDealt": 133,
+          "teamName": "Eternal Pain",
+          "teamPlacement": 19,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 0,
+          "playerName": "Miru_FourR44",
+          "teamPlacement": 1,
+          "damageDealt": 891,
+          "teamName": "Miru",
+          "teamNum": 17,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 809,
+          "playerName": "AID_BiTaMiNkA",
+          "survivalTime": 1421,
+          "teamNum": 20,
+          "teamName": "AID",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 415,
+          "playerName": "THI3F-Youtube",
+          "damageDealt": 214,
+          "teamPlacement": 13,
+          "teamName": "TFSQ",
+          "teamNum": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 105,
+          "playerName": "Bruh_EnerGy_VL",
+          "survivalTime": 1163,
+          "teamNum": 2,
+          "teamName": "Bruh",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 253,
+          "playerName": "M4NER_VEVO",
+          "teamNum": 21,
+          "damageDealt": 175,
+          "teamName": "VEVO",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 184,
+          "playerName": "RND_W1R3NT",
+          "teamNum": 14,
+          "survivalTime": 228,
+          "teamName": "RenaiD",
+          "teamPlacement": 17,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "damageDealt": 277,
+          "playerName": "AID_TOSHIK",
+          "survivalTime": 1421,
+          "teamNum": 20,
+          "teamName": "AID",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "survivalTime": 142,
+          "playerName": "KOMPOT_kokc21",
+          "damageDealt": 479,
+          "teamPlacement": 18,
+          "teamName": "CUMPOT",
+          "teamNum": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 195,
+          "playerName": "TrapDesu_Sh1n1",
+          "teamPlacement": 11,
+          "survivalTime": 500,
+          "teamName": "Trap Desu",
+          "teamNum": 19,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 632,
+          "playerName": "ToxicNazgob",
+          "survivalTime": 735,
+          "teamPlacement": 10,
+          "teamName": "CoA_",
+          "teamNum": 10,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 237,
+          "playerName": "FOleger1_VEVO",
+          "damageDealt": 76,
+          "teamNum": 21,
+          "teamName": "VEVO",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 253,
+          "playerName": "GANSTERx13_VEVO",
+          "teamNum": 21,
+          "damageDealt": 127,
+          "teamName": "VEVO",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 165,
+          "playerName": "TRIADA_uQehT",
+          "teamNum": 16,
+          "survivalTime": 120,
+          "teamName": "TRIADA Gaming",
+          "teamPlacement": 20,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 221,
+          "playerName": "TFSQ_Monkey",
+          "survivalTime": 475,
+          "teamNum": 11,
+          "teamName": "TFSQ",
+          "teamPlacement": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "WHISK_NoName",
+          "teamPlacement": 14,
+          "survivalTime": 321,
+          "teamName": "LoVi",
+          "teamNum": 5,
+          "assists": 0
+        },
+        {
+          "kills": 9,
+          "damageDealt": 1569,
+          "playerName": "Yann1_GB",
+          "teamNum": 18,
+          "survivalTime": 1425,
+          "teamName": "Keepo",
+          "teamPlacement": 3,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1286,
+          "playerName": "WN_Vano1k",
+          "damageDealt": 964,
+          "teamPlacement": 5,
+          "teamName": "WhyNot",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 474,
+          "playerName": "TFSQ_Shade",
+          "damageDealt": 163,
+          "teamPlacement": 13,
+          "teamName": "TFSQ",
+          "teamNum": 11,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "survivalTime": 222,
+          "playerName": "RND_FalseAlarm",
+          "damageDealt": 181,
+          "teamPlacement": 17,
+          "teamName": "RenaiD",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 87,
+          "playerName": "LFT_PaolaZest",
+          "survivalTime": 882,
+          "teamNum": 18,
+          "teamName": "Keepo",
+          "teamPlacement": 3,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1164,
+          "playerName": "Bruh_TowBoat",
+          "damageDealt": 228,
+          "teamPlacement": 7,
+          "teamName": "Bruh",
+          "teamNum": 2,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 233,
+          "playerName": "Bruh_RTF9",
+          "survivalTime": 1164,
+          "teamNum": 2,
+          "teamName": "Bruh",
+          "teamPlacement": 7,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 462,
+          "playerName": "SBL_BoL4ONOk",
+          "teamPlacement": 12,
+          "damageDealt": 97,
+          "teamName": "SBL TEAM",
+          "teamNum": 8,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 253,
+          "playerName": "ST_KaCpeR",
+          "damageDealt": 301,
+          "teamNum": 3,
+          "teamName": "Shaman Team",
+          "teamPlacement": 15,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 108,
+          "playerName": "TRIADA_doto",
+          "teamNum": 16,
+          "damageDealt": 69,
+          "teamName": "TRIADA Gaming",
+          "teamPlacement": 20,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 142,
+          "playerName": "RND-piro96ok",
+          "teamPlacement": 17,
+          "damageDealt": 130,
+          "teamName": "RenaiD",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "survivalTime": 1107,
+          "playerName": "Prokich",
+          "damageDealt": 602,
+          "teamPlacement": 8,
+          "teamName": "NT",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 385,
+          "playerName": "WGN_Maly",
+          "survivalTime": 1174,
+          "teamNum": 9,
+          "teamName": "WGN",
+          "teamPlacement": 6,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "damageDealt": 606,
+          "playerName": "ss_Zhidkich",
+          "teamNum": 4,
+          "survivalTime": 1459,
+          "teamName": "Serious Sam",
+          "teamPlacement": 2,
+          "assists": 1
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1107,
+          "playerName": "vstu-een",
+          "teamPlacement": 8,
+          "damageDealt": 760,
+          "teamName": "NT",
+          "teamNum": 13,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 253,
+          "playerName": "Kyoto_Sena",
+          "teamPlacement": 15,
+          "damageDealt": 166,
+          "teamName": "Shaman Team",
+          "teamNum": 3,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1111,
+          "playerName": "AID_majahed21",
+          "damageDealt": 686,
+          "teamNum": 20,
+          "teamName": "AID",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1060,
+          "playerName": "Sarcasm_322",
+          "teamPlacement": 9,
+          "damageDealt": 566,
+          "teamName": "RusB",
+          "teamNum": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 471,
+          "playerName": "SBL_LIGHTSTREET",
+          "teamPlacement": 12,
+          "damageDealt": 94,
+          "teamName": "SBL TEAM",
+          "teamNum": 8,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1282,
+          "playerName": "WGN_Dedaman30",
+          "teamNum": 9,
+          "damageDealt": 1557,
+          "teamName": "WGN",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 101,
+          "playerName": "SBL_SHOPCHA",
+          "survivalTime": 478,
+          "teamPlacement": 12,
+          "teamName": "SBL TEAM",
+          "teamNum": 8,
+          "assists": 0
+        }
+      ]
+    },
+    {
+      "match_start": 1590335981,
+      "player_results": [
+        {
+          "kills": 0,
+          "damageDealt": 26,
+          "playerName": "ST_KaCpeR",
+          "teamNum": 3,
+          "survivalTime": 1263,
+          "teamName": "Shaman Team",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 1290,
+          "playerName": "WN_SpeKTRiZ",
+          "damageDealt": 726,
+          "teamNum": 15,
+          "teamName": "WhyNot",
+          "teamPlacement": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 61,
+          "playerName": "WHISK_NoName",
+          "survivalTime": 99,
+          "teamNum": 5,
+          "teamName": "LoVi",
+          "teamPlacement": 19,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 113,
+          "playerName": "Kyoto_Sena",
+          "teamNum": 3,
+          "survivalTime": 1285,
+          "teamName": "Shaman Team",
+          "teamPlacement": 5,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 294,
+          "playerName": "TRIADA_uQehT",
+          "survivalTime": 270,
+          "teamPlacement": 15,
+          "teamName": "TRIADA Gaming",
+          "teamNum": 16,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 127,
+          "playerName": "WGN_Maly",
+          "teamPlacement": 13,
+          "survivalTime": 422,
+          "teamName": "WGN",
+          "teamNum": 9,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 360,
+          "playerName": "Sarcasm_322",
+          "survivalTime": 1043,
+          "teamNum": 12,
+          "teamName": "RusB",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 140,
+          "playerName": "v0ld3m4r",
+          "teamPlacement": 19,
+          "survivalTime": 99,
+          "teamName": "LoVi",
+          "teamNum": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 409,
+          "playerName": "WGN_Dedaman30",
+          "teamPlacement": 13,
+          "damageDealt": 196,
+          "teamName": "WGN",
+          "teamNum": 9,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 212,
+          "playerName": "ss_Neefreet",
+          "teamPlacement": 10,
+          "survivalTime": 696,
+          "teamName": "Serious Sam",
+          "teamNum": 4,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 91,
+          "playerName": "TrapDesu_Cracer",
+          "teamNum": 19,
+          "survivalTime": 139,
+          "teamName": "Trap Desu",
+          "teamPlacement": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 140,
+          "playerName": "0_Kopchoniy_0",
+          "teamNum": 19,
+          "damageDealt": 44,
+          "teamName": "Trap Desu",
+          "teamPlacement": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1218,
+          "playerName": "CrudeFish",
+          "teamNum": 6,
+          "damageDealt": 300,
+          "teamName": "CUMPOT",
+          "teamPlacement": 8,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "damageDealt": 633,
+          "playerName": "KOMPOT_kokc21",
+          "teamNum": 6,
+          "survivalTime": 1218,
+          "teamName": "CUMPOT",
+          "teamPlacement": 8,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "damageDealt": 837,
+          "playerName": "beskish1",
+          "survivalTime": 696,
+          "teamNum": 4,
+          "teamName": "Serious Sam",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 1576,
+          "playerName": "Miru_Xuebushek",
+          "teamPlacement": 9,
+          "survivalTime": 1187,
+          "teamName": "Miru",
+          "teamNum": 17,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "survivalTime": 99,
+          "playerName": "TrischIZzi",
+          "teamPlacement": 19,
+          "damageDealt": 139,
+          "teamName": "LoVi",
+          "teamNum": 5,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 696,
+          "playerName": "ss_Zhidkich",
+          "damageDealt": 158,
+          "teamNum": 4,
+          "teamName": "Serious Sam",
+          "teamPlacement": 10,
+          "assists": 0
+        },
+        {
+          "kills": 4,
+          "damageDealt": 947,
+          "playerName": "hatehatehateYB",
+          "teamPlacement": 1,
+          "survivalTime": 0,
+          "teamName": "Eternal Pain",
+          "teamNum": 7,
+          "assists": 4
+        },
+        {
+          "kills": 2,
+          "survivalTime": 1293,
+          "playerName": "playatfun",
+          "teamNum": 13,
+          "damageDealt": 812,
+          "teamName": "NT",
+          "teamPlacement": 3,
+          "assists": 4
+        },
+        {
+          "kills": 0,
+          "survivalTime": 260,
+          "playerName": "CoA_Brat3ckiy",
+          "teamPlacement": 16,
+          "damageDealt": 174,
+          "teamName": "CoA_",
+          "teamNum": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 280,
+          "playerName": "Miru_FourR44",
+          "teamNum": 17,
+          "survivalTime": 1067,
+          "teamName": "Miru",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "survivalTime": 0,
+          "playerName": "twitch_segura",
+          "damageDealt": 973,
+          "teamNum": 7,
+          "teamName": "Eternal Pain",
+          "teamPlacement": 1,
+          "assists": 2
+        },
+        {
+          "kills": 2,
+          "survivalTime": 377,
+          "playerName": "juhaniGG",
+          "damageDealt": 389,
+          "teamPlacement": 14,
+          "teamName": "Keepo",
+          "teamNum": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 539,
+          "playerName": "vstu-een",
+          "survivalTime": 888,
+          "teamPlacement": 3,
+          "teamName": "NT",
+          "teamNum": 13,
+          "assists": 3
+        },
+        {
+          "kills": 0,
+          "damageDealt": 48,
+          "playerName": "TFSQ_Monkey",
+          "teamNum": 11,
+          "survivalTime": 590,
+          "teamName": "TFSQ",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1255,
+          "playerName": "RusB_akry",
+          "teamPlacement": 6,
+          "damageDealt": 973,
+          "teamName": "RusB",
+          "teamNum": 12,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 148,
+          "playerName": "M4NER_VEVO",
+          "damageDealt": 0,
+          "teamPlacement": 17,
+          "teamName": "VEVO",
+          "teamNum": 21,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 488,
+          "playerName": "RND_W1R3NT",
+          "survivalTime": 1242,
+          "teamPlacement": 7,
+          "teamName": "RenaiD",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "GANSTERx13_VEVO",
+          "survivalTime": 149,
+          "teamNum": 21,
+          "teamName": "VEVO",
+          "teamPlacement": 17,
+          "assists": 0
+        },
+        {
+          "kills": 2,
+          "damageDealt": 294,
+          "playerName": "Bruh_EnerGy_VL",
+          "teamPlacement": 12,
+          "survivalTime": 483,
+          "teamName": "Bruh",
+          "teamNum": 2,
+          "assists": 1
+        },
+        {
+          "kills": 2,
+          "damageDealt": 127,
+          "playerName": "Miru_sladkodynyl",
+          "teamNum": 17,
+          "survivalTime": 1049,
+          "teamName": "Miru",
+          "teamPlacement": 9,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 484,
+          "playerName": "Bruh_TowBoat",
+          "damageDealt": 277,
+          "teamPlacement": 12,
+          "teamName": "Bruh",
+          "teamNum": 2,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1242,
+          "playerName": "RND_FalseAlarm",
+          "damageDealt": 1068,
+          "teamPlacement": 7,
+          "teamName": "RenaiD",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 0,
+          "playerName": "FOleger1_VEVO",
+          "teamNum": 21,
+          "survivalTime": 149,
+          "teamName": "VEVO",
+          "teamPlacement": 17,
+          "assists": 0
+        },
+        {
+          "kills": 10,
+          "damageDealt": 2761,
+          "playerName": "Prokich",
+          "teamPlacement": 3,
+          "survivalTime": 1295,
+          "teamName": "NT",
+          "teamNum": 13,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 590,
+          "playerName": "THI3F-Youtube",
+          "damageDealt": 237,
+          "teamNum": 11,
+          "teamName": "TFSQ",
+          "teamPlacement": 11,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 270,
+          "playerName": "TRIADA_doto",
+          "teamNum": 16,
+          "damageDealt": 153,
+          "teamName": "TRIADA Gaming",
+          "teamPlacement": 15,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 432,
+          "playerName": "LFT_PaolaZest",
+          "teamNum": 18,
+          "survivalTime": 385,
+          "teamName": "Keepo",
+          "teamPlacement": 14,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "damageDealt": 50,
+          "playerName": "SBL_LIGHTSTREET",
+          "teamNum": 8,
+          "survivalTime": 93,
+          "teamName": "SBL TEAM",
+          "teamPlacement": 20,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 166,
+          "playerName": "TFSQ_Shade",
+          "survivalTime": 590,
+          "teamPlacement": 11,
+          "teamName": "TFSQ",
+          "teamNum": 11,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1085,
+          "playerName": "RusB_Kot9",
+          "damageDealt": 267,
+          "teamNum": 12,
+          "teamName": "RusB",
+          "teamPlacement": 6,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 385,
+          "playerName": "Yann1_GB",
+          "damageDealt": 449,
+          "teamNum": 18,
+          "teamName": "Keepo",
+          "teamPlacement": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 140,
+          "playerName": "TrapDesu_Teo",
+          "damageDealt": 72,
+          "teamNum": 19,
+          "teamName": "Trap Desu",
+          "teamPlacement": 18,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 260,
+          "playerName": "ToxicNazgob",
+          "teamPlacement": 16,
+          "damageDealt": 272,
+          "teamName": "CoA_",
+          "teamNum": 10,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 62,
+          "playerName": "SBL_BoL4ONOk",
+          "survivalTime": 93,
+          "teamNum": 8,
+          "teamName": "SBL TEAM",
+          "teamPlacement": 20,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 407,
+          "playerName": "TRIADA_WeakQ",
+          "survivalTime": 270,
+          "teamPlacement": 15,
+          "teamName": "TRIADA Gaming",
+          "teamNum": 16,
+          "assists": 1
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1205,
+          "playerName": "szymongdz92",
+          "teamNum": 6,
+          "damageDealt": 857,
+          "teamName": "CUMPOT",
+          "teamPlacement": 8,
+          "assists": 1
+        },
+        {
+          "kills": 1,
+          "damageDealt": 697,
+          "playerName": "WN_Vano1k",
+          "survivalTime": 1290,
+          "teamPlacement": 4,
+          "teamName": "WhyNot",
+          "teamNum": 15,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "damageDealt": 727,
+          "playerName": "AID_BiTaMiNkA",
+          "teamPlacement": 2,
+          "survivalTime": 930,
+          "teamName": "AID",
+          "teamNum": 20,
+          "assists": 2
+        },
+        {
+          "kills": 0,
+          "damageDealt": 24,
+          "playerName": "CoA-DNq-",
+          "teamNum": 10,
+          "survivalTime": 259,
+          "teamName": "CoA_",
+          "teamPlacement": 16,
+          "assists": 0
+        },
+        {
+          "kills": 1,
+          "survivalTime": 907,
+          "playerName": "AID_majahed21",
+          "damageDealt": 596,
+          "teamNum": 20,
+          "teamName": "AID",
+          "teamPlacement": 2,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 1076,
+          "playerName": "RND-piro96ok",
+          "teamPlacement": 7,
+          "damageDealt": 298,
+          "teamName": "RenaiD",
+          "teamNum": 14,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 33,
+          "playerName": "MeetDeadMan",
+          "survivalTime": 1250,
+          "teamPlacement": 5,
+          "teamName": "Shaman Team",
+          "teamNum": 3,
+          "assists": 0
+        },
+        {
+          "kills": 3,
+          "survivalTime": 1316,
+          "playerName": "AID_TOSHIK",
+          "teamNum": 20,
+          "damageDealt": 1166,
+          "teamName": "AID",
+          "teamPlacement": 2,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "survivalTime": 483,
+          "playerName": "Bruh_HentaiWife",
+          "teamNum": 2,
+          "damageDealt": 217,
+          "teamName": "Bruh",
+          "teamPlacement": 12,
+          "assists": 1
+        },
+        {
+          "kills": 7,
+          "survivalTime": 0,
+          "playerName": "arsssq",
+          "damageDealt": 1643,
+          "teamNum": 7,
+          "teamName": "Eternal Pain",
+          "teamPlacement": 1,
+          "assists": 1
+        },
+        {
+          "kills": 0,
+          "survivalTime": 479,
+          "playerName": "twitch_kane_king",
+          "teamPlacement": 13,
+          "damageDealt": 465,
+          "teamName": "WGN",
+          "teamNum": 9,
+          "assists": 0
+        },
+        {
+          "kills": 0,
+          "damageDealt": 47,
+          "playerName": "SBL_SHOPCHA",
+          "teamPlacement": 20,
+          "survivalTime": 93,
+          "teamName": "SBL TEAM",
+          "teamNum": 8,
+          "assists": 0
+        }
+      ]
+    }
+  ]
+}
